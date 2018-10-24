@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/82f3a047-249d-43b7-a37b-95e707a5d3b8/resourceGroups/appsvc_rg_windows_centralus/providers/Microsoft.Web/sites/MvcMovieAppAzureDeployment10232018",
+    "appService.deploySubpath": ""
+}
